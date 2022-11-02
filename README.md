@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 <p align='center'>
-   #<a href="">
-       <img src=""/>
-   </a>
-   <a href="https://t.me/@LeBanano">
+   <a href="[https://t.me/@LeBanano](https://t.me/LeBanano)">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
