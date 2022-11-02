@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I`m Roman 👋
 
 <p align='center'>
    <a href="https://t.me/LeBanano">
